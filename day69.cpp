@@ -21,7 +21,6 @@
 
 
 
-
 class Solution {
 public:
     typedef long long ll;
