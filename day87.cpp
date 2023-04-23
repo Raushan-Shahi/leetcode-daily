@@ -29,4 +29,4 @@ public:
        vector<int>dp(s.size()+1,-1);
         return c(s,k,0,dp);
     }
-};gi
+};
